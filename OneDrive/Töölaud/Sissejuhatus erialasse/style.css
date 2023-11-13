@@ -1,0 +1,48 @@
+h1 {
+  color: darkred;
+  font-size: 32px;
+  font-family: 'Arial', sans-serif;
+}
+h2 {
+  color: darkred;
+  font-size: 25px;
+  font-family: 'Arial', sans-serif;
+  line-height: 2
+}
+body {
+  font-family: 'Helvetica', sans-serif;
+  font-size: 18px;
+  line-height: 2;
+}
+
+p {
+  color: #640b0b;
+}
+
+img {
+  border: 2px solid #ddd;
+  box-shadow: 7px 7px 10px #640b0b;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2dbd4;
+  font-weight: bold;
+}
+body {
+  background-color: #fae6e0;
+}
+
+
+
+
