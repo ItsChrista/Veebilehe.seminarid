@@ -1,0 +1,8 @@
+Milliseid erinevaid viise leiad, et lehe sisu jagada kahte tulpa? 
+Vastus: 
+1) <Div> käsk ja floatid 
+2) Flexbox 
+3) Veerupõhine paigutus ehk columns
+
+Miks peetakse mahukama veebilehe puhul otse HTML-elementide küljes olevat stiili (ingl inline style) halvaks tavaks?
+Vastus: Kui stiilide määratlused on otse HTML faili sees, muudab see koodi väga segaseks, raskesti loetavaks ja faili hooldamine võib osutuda üpris keeruliseks.
